@@ -1,0 +1,14 @@
+{
+  "name": "dynamic-programming",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/paulorodrigues99/Dynamic-Programming.git",
+  "author": "http4ulo <paulo.rodrigues@aeoluscloud.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
